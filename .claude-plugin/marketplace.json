@@ -1,0 +1,14 @@
+{
+  "name": "bizzclaw",
+  "owner": {
+    "name": "BizzClaw",
+    "email": "support@bizz-claw.com"
+  },
+  "plugins": [
+    {
+      "name": "bizzclaw",
+      "source": "./"
+    }
+  ],
+  "description": "BizzClaw for Claude Code: reach yourself on WhatsApp and keep watching your tools after the session ends."
+}

@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "bizzclaw": { "type": "http", "url": "https://agent.bizz-claw.com/mcp" }
+  }
+}

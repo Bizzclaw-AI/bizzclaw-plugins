@@ -1,0 +1,15 @@
+{
+  "name": "bizzclaw",
+  "displayName": "BizzClaw",
+  "description": "Reach yourself on WhatsApp and keep watching your tools after the chat ends.",
+  "version": "0.1.0",
+  "author": {
+    "name": "BizzClaw",
+    "email": "support@bizz-claw.com"
+  },
+  "homepage": "https://bizzclaw.co",
+  "repository": "https://github.com/Bizzclaw-AI/bizzclaw-plugins",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://bizzclaw.co/privacy",
+  "icon": ".claude-plugin/icon.png"
+}
